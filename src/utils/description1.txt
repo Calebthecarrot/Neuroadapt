@@ -1,0 +1,1 @@
+utils typescript code for the audio synthesizer and bionic reading, basically just management for text to speech functions
