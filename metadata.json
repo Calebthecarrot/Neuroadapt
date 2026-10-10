@@ -1,0 +1,6 @@
+{
+  "name": "NeuroAdapt - Educational Companion",
+  "description": "An AI-powered educational companion tailored for ADHD and dyslexia learners that dynamically adapts between audio, visual, and interactive formats using real-time engagement signals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
